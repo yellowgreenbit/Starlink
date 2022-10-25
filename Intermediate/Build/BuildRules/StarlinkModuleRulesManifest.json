@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_projects\\Starlink\\Starlink\\Source\\Starlink\\Starlink.Build.cs",
+		"D:\\UE_projects\\Starlink\\Starlink\\Source\\Starlink.Target.cs",
+		"D:\\UE_projects\\Starlink\\Starlink\\Source\\StarlinkEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

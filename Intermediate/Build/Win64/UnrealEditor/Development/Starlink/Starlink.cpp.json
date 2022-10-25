@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\starlink.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\starlinkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\unrealeditor\\development\\starlink\\definitions.starlink.h",
+            "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\starlink.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

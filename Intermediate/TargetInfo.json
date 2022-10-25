@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Starlink",
+			"Path": "D:\\UE_projects\\Starlink\\Starlink\\Source\\Starlink.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StarlinkEditor",
+			"Path": "D:\\UE_projects\\Starlink\\Starlink\\Source\\StarlinkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

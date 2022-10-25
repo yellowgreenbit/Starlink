@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Starlink.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Starlink.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StarlinkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Starlink">
+      <UniqueIdentifier>{E1EAAE54-A392-3227-88E8-657C773F6CF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Starlink\Starlink.Build.cs">
+      <Filter>Source\Starlink</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Starlink\Starlink.cpp">
+      <Filter>Source\Starlink</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starlink\Starlink.h">
+      <Filter>Source\Starlink</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Starlink\StarlinkGameModeBase.cpp">
+      <Filter>Source\Starlink</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starlink\StarlinkGameModeBase.h">
+      <Filter>Source\Starlink</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
