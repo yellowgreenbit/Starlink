@@ -11,6 +11,8 @@
     <None Include="..\..\Source\StarlinkEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -22,6 +24,12 @@
     </None>
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
     </None>
     <Filter Include="Source\Starlink">
       <UniqueIdentifier>{E1EAAE54-A392-3227-88E8-657C773F6CF2}</UniqueIdentifier>
@@ -40,6 +48,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Starlink\StarlinkGameModeBase.h">
       <Filter>Source\Starlink</Filter>
+    </ClInclude>
+    <Filter Include="Source\Starlink\Private">
+      <UniqueIdentifier>{78564672-117D-3777-A4FA-58F58589AA96}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Starlink\Private\Planet.cpp">
+      <Filter>Source\Starlink\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Starlink\Public">
+      <UniqueIdentifier>{FD10C17D-8704-3E85-8CDB-8953222E8139}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Starlink\Public\Planet.h">
+      <Filter>Source\Starlink\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

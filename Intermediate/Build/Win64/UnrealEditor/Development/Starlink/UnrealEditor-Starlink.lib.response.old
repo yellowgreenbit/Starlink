@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Starlink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\StarlinkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Starlink.cpp.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\StarlinkGameModeBase.cpp.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Starlink.init.gen.cpp.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\StarlinkGameModeBase.gen.cpp.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Default.rc2.res"
+/OUT:"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\UnrealEditor-Starlink.lib"
