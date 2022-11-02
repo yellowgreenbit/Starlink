@@ -34,10 +34,12 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\StarlinkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Planet.cpp.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Satellite.cpp.obj"
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Starlink.cpp.obj"
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\StarlinkGameModeBase.cpp.obj"
-"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Planet.cpp.obj"
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Planet.gen.cpp.obj"
+"D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Satellite.gen.cpp.obj"
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Starlink.init.gen.cpp.obj"
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\StarlinkGameModeBase.gen.cpp.obj"
 "D:\UE_projects\Starlink\Starlink\Intermediate\Build\Win64\UnrealEditor\Development\Starlink\Default.rc2.res"

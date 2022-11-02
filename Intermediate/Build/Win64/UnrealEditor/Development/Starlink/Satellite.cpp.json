@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\private\\satellite.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\starlinkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\unrealeditor\\development\\starlink\\definitions.starlink.h",
+            "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\public\\satellite.h",
+            "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\unrealeditor\\inc\\starlink\\satellite.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

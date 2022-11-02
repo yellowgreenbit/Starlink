@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\private\\satellite.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\starlinkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\unrealeditor\\development\\starlink\\definitions.starlink.h",
+            "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\public\\satellite.h",
+            "d:\\ue_projects\\starlink\\starlink\\source\\starlink\\public\\planet.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\physicsengine\\radialforcecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\radialforcecomponent.generated.h",
+            "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\unrealeditor\\inc\\starlink\\planet.generated.h",
+            "d:\\ue_projects\\starlink\\starlink\\intermediate\\build\\win64\\unrealeditor\\inc\\starlink\\satellite.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
